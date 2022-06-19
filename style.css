@@ -11,7 +11,8 @@
 
 body 
 {
-    background-color: white
+    background-color: white;
+    margin: 0;
 }
 
 img
@@ -202,12 +203,61 @@ img
 }
 
 
+/* ---------------------------------------------- MAIN BODY --------------------------------------------------- */
 
+.models
+{
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: 50%;
+    flex-direction: column;
 
+}
 
+.modelRow1
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 90%;
+}
 
+.modelRow2
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 90%;
+}
 
+.modelContainer1
+{
+    width: 35%;
+}
+.modelContainer2
+{
+    width: 35%;
+}
 
+.modelContainer3
+{
+    width: 35%;
+}
+
+.modelContainer4
+{
+    width: 35%;
+}
+.modelContainer5
+{
+    width: 35%;
+}
+
+.modelContainer6
+{
+    width: 35%;
+}
 
 
 
