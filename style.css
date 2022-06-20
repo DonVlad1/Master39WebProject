@@ -141,6 +141,7 @@ img
 
 .nav1
 {
+    color: inherit;
     display: flex;
     height: 40%;
     width: 5%;
